@@ -1,0 +1,5 @@
+Animal,Type,Max Speed
+Falcon,Captive,390.0
+Falcon,Wild,350.0
+Parrot,Captive,30.0
+Parrot,Wild,20.0
